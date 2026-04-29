@@ -1,0 +1,7 @@
+slack_webhook_url: "https://hooks.slack.com/services/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"
+z_score_threshold: 3.0
+multiplier_threshold: 5.0
+error_multiplier: 3.0
+baseline_window_minutes: 30
+recalc_interval_seconds: 60
+log_path: "/var/lib/docker/volumes/HNG-nginx-logs/_data/hng-access.log"
